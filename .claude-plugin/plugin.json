@@ -1,0 +1,13 @@
+{
+  "name": "claude-hud",
+  "description": "Real-time statusline HUD for Claude Code — shows model, context usage, cost, and session info",
+  "version": "1.0.0",
+  "author": {
+    "name": "minpyokim",
+    "url": "https://github.com/minpyokim-hash"
+  },
+  "homepage": "https://github.com/minpyokim-hash/jasper",
+  "repository": "https://github.com/minpyokim-hash/jasper",
+  "license": "MIT",
+  "keywords": ["hud", "statusline", "context", "monitoring"]
+}
